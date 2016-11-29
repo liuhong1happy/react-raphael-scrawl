@@ -5,6 +5,36 @@
 
 so easy! create scrawl with react-raphael.
 
+## Install
+
+    npm install --save react-raphael-scrawl
+    
+## Quickly Start
+
+``` js
+var React = require('react');
+var ReactDOM = require('react-dom');
+var Scrawl = require('../lib/index');
+	
+class ScrawlApp extends React.Component {
+    handleClick(){
+        this.refs.scrawl.clear();
+    }
+    render(){
+        return (<div>
+        <div>
+                <button onClick={this.handleClick.bind(this)}>清除画布</button>
+        </div>        
+        <Scrawl ref="scrawl" width={500} height={600} attr={{"stroke": "#000","stroke-width": 6}} />
+        </div>)
+    }
+}
+
+ReactDOM.render(<div>
+                <ScrawlApp />
+                </div>,document.getElementById("react-container"));
+```
+
 ## API
 
 #### All Scrawl Props
