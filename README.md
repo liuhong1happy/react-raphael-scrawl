@@ -14,7 +14,7 @@ so easy! create scrawl with react-raphael.
 ``` js
 var React = require('react');
 var ReactDOM = require('react-dom');
-var Scrawl = require('../lib/index');
+var Scrawl = require('react-raphael-scrawl');
 	
 class ScrawlApp extends React.Component {
     handleClick(){
