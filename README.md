@@ -1,5 +1,8 @@
 # react-raphael-scrawl
 
+[![Version](https://img.shields.io/npm/v/react-raphael-scrawl.svg)](https://www.npmjs.com/package/react-raphael-scrawl)
+[![Downloads](https://img.shields.io/npm/dt/react-raphael-scrawl.svg)](https://www.npmjs.com/package/react-raphael-scrawl)
+
 so easy! create scrawl with react-raphael.
 
 ## API
