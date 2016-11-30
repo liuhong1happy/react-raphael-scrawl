@@ -45,17 +45,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liuhong1happy/react-raphael-chart.git"
+    "url": "git+https://github.com/liuhong1happy/react-raphael-scrawl.git"
   },
   "keywords": [
     "react",
     "react-raphael",
-    "react-raphael-chart"
+    "react-raphael-scrawl"
   ],
   "author": "Holly Liu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liuhong1happy/react-raphael-chart/issues"
+    "url": "https://github.com/liuhong1happy/react-raphael-scrawl/issues"
   },
-  "homepage": "https://github.com/liuhong1happy/react-raphael-chart#readme"
+  "homepage": "https://github.com/liuhong1happy/react-raphael-scrawl#readme"
 }
