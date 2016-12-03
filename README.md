@@ -7,6 +7,9 @@ so easy! create scrawl with react-raphael.
 
 ## Install
 
+	# or specify the externals in webpack config
+	npm install --save raphael
+	# install react-raphael-scrawl in your react-raphael-scrawl project
     npm install --save react-raphael-scrawl
     
 ## Quickly Start
